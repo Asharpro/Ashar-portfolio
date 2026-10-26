@@ -1,0 +1,400 @@
+﻿Portfolio Content Update for Muhammad Ashar Samdani
+Prepared 26 October 2026 for muhammadasharportfolio.netlify.app
+1. Read this first
+I reviewed all five pages of your portfolio, your CV, and the live site packagingmindzcanada.netlify.app. I could not open the other four live links (Bob’s, Habacker, Eman, Luxury Landscape) from here, so their project texts are written from the project name and tech stack and marked VERIFY. Check each against the real site before publishing.
+Fix these first (they hurt trust)
+Placeholder projects. Lumina Store+, Mindz360 Hub, Apex Freight+, Authority Link and the “Halcyon Store Rebuild” sprint are not in your project list. Their results (+180% traffic, +34% conversion, 10,480 pages indexed, 24 keywords in the Top 3) are not in your CV. Section 6 replaces them with your 10 real projects.
+Numbers that are not in your CV. The site claims 45+ projects, 20+ clients, a 4.9/5 rating, 250+ citations and “rank #1 on Google”. You have confirmed 3 years of experience, so update your CV too (it still says 1 year at Marketing Mindz360). Keep the other numbers only if you can prove them, and never promise a ranking position.
+Anonymous testimonials (initials only). Use real names with permission, or remove the block.
+Social links point to the home pages of linkedin.com, facebook.com and instagram.com. Add your real profile URLs.
+“Handcrafted without bulky frameworks” on Services conflicts with your Next.js and React projects. Rewritten below.
+About-page image is a stock photo hosted on a Webflow CDN. Replace it (Section 8).
+Project 8 is missing from your list. Tell me if a project was left out.
+Contact details. Consider showing “Johar Town, Lahore” instead of the full street address, and confirm you really reply within 2 hours.
+Certificate wording. The About page says you “implemented” SharePoint and held an “executive tenure” at IEEE. Your CV says Participant and HR Management, IEEE UCP Student Branch (1 year). Corrected below.
+Rules applied to all copy
+Headlines near 65 characters, one idea per page, written for business owners who need a website and search traffic, plain language, real facts only, questions as headings with a direct answer underneath, and E-E-A-T signals (real experience, named credentials, named tools and places).
+2. Sitewide elements
+Brand wordmark: keep “ASHAR SAMDANI WEB & SEO”.
+Header button: keep “Start a Project”.
+Footer “Developer Brief” (replaces current text): Muhammad Ashar Samdani is a web developer and SEO specialist in Lahore, Pakistan. He holds a BSCS from the University of Central Punjab and builds fast websites in WordPress, Webflow, Next.js and Python.
+Footer availability line: Available for new projects from Q1 2027 (confirm this is still true).
+Footer “Disciplines” list (replaces current):
+Custom Web Development
+WordPress, Webflow & CMS Websites
+Technical & On-Page SEO
+Off-Page SEO & Local Citations
+Landing Pages & Web Apps
+Search Console Monitoring & Maintenance
+Footer credit line: © 2026 Muhammad Ashar Samdani. Web development and SEO from Lahore, Pakistan.
+CV pop-up summary (replaces Career Objective): Web Developer and SEO Expert with three years of experience, building service-business and e-commerce websites and running on-page and off-page SEO. Skilled in HTML5, CSS3, JavaScript, Python, MySQL, WordPress, Webflow, Wix, Squarespace and Next.js. BSCS, University of Central Punjab.
+Social links: add your real LinkedIn, Facebook and Instagram URLs, or delete the icons you do not use.
+3. Home page
+SEO title (59 characters): Freelance Web Developer & SEO Expert Lahore | Ashar Samdani
+Meta description: Hire a freelance web developer and SEO expert in Lahore. WordPress, Webflow, Next.js and Python websites with local SEO that brings in enquiries.
+Hero
+Eyebrow: Hello, I’m Muhammad Ashar
+Badge: Available for freelance projects
+H1 (62 characters): Fast Websites That Rank on Google and Turn Visitors into Leads
+Subheading: Web Developer & SEO Expert in Lahore, Pakistan
+Intro: I build fast, mobile-friendly websites and handle the SEO behind them. I work in WordPress, Webflow, Next.js and Python, and I use AI-assisted coding to move quickly without cutting corners. You talk directly to the person writing the code.
+Buttons: Start a Project | View My Work
+Stats strip (replaces 3+ years / 45+ projects / 20+ clients):
+3 Years | Web development and SEO experience
+10 | Featured projects, from landing pages to full web apps
+2 | SEO case studies with Google Search Console results
+If your 45+ projects and 20+ clients are real and provable, use them instead.
+Quote under hero: I connect clean code, fast pages and search-friendly structure so a website works for the business that owns it.
+Scrolling tag line: WEBFLOW • WORDPRESS • NEXT.JS • REACT • TYPESCRIPT • PYTHON • FASTAPI • MYSQL • POSTGRESQL • GOOGLE SEARCH CONSOLE • LOCAL CITATIONS • SCHEMA MARKUP
+Featured work
+H2: Recent Websites and Web Apps I Have Built
+Intro: Real builds for business owners and products of my own. Each one shows the stack, the goal and what I delivered.
+Cards to show (text in Section 6): Packaging Mindz Canada, Universal Image Fixer, Python Calling Dialer, Bob’s Decorating Service.
+SEO case study strip (new): two cards linking to Section 12: “From zero leads to real inquiries in 1.5 months: fence company, DFW” and “3-month SEO results: pest control company, California”.
+“In the studio right now” block
+Delete the three fake sprints (Halcyon, Mindz360 SEO Sprint, Component Hub). Keep this block only if you list work that is really in progress. Template: [Project name] | [what it is] | [stage, for example “In testing”].
+Services teaser
+H2: What I Can Do for Your Business
+Custom Web Development. Fast websites and web apps in HTML5, CSS3, JavaScript, Next.js, Node.js and Python.
+WordPress, Webflow & CMS. Sites you can edit yourself, with WooCommerce stores when you sell online.
+Technical & On-Page SEO. Titles, headings, schema markup, internal links and Core Web Vitals fixes so search engines understand your pages.
+Link: See all services
+Video block
+Title: How I Build and Optimise a Website in 90 Seconds
+Caption: A screen recording of a real project, from layout to Search Console. (Replace the 01:24 reel with a real recording, Section 8.)
+Testimonials
+H2: What Clients Say
+Remove the “4.9/5 across 45+ websites” line. Publish only real quotes in this format:
+“[Real quote, one or two sentences.]” — [Full name], [Role], [Business], [City or country]
+Home FAQ (answers are short and direct)
+How does a project start? We begin with a short discovery call about your goals, customers and competitors. Within 48 hours I send a written scope with timeline and milestones.
+What does “AI-assisted coding” mean here? I use AI tools to draft components and remove repetitive work, then I review, test and tune every line myself. You get faster delivery and the same quality checks.
+Should I choose Webflow, WordPress or custom code? Webflow suits design-heavy sites with simple editing. WordPress suits stores and plugin-based features. Custom code (Next.js or Python) suits web apps and special databases. I recommend one after the discovery call.
+How soon will SEO improve my rankings? Technical fixes and indexing changes usually show in Google Search Console within 1 to 3 weeks. Ranking gains depend on competition and typically build over 6 to 12 weeks. I cannot promise a position.
+What happens after launch? I monitor the site after go-live, fix any launch issues, and walk your team through the CMS. Monthly maintenance and SEO support are available.
+Closing call to action
+H2: Need a Website That Brings in Customers?
+Text: Tell me about your business and what you want the site to do. I will reply with clear next steps and a scope.
+Button: Start a Project | +92 324 4046649
+4. About page
+SEO title (59 characters): Lahore Web Developer & SEO Specialist | About Ashar Samdani
+Meta description: Meet Muhammad Ashar Samdani, a BSCS-qualified web developer and SEO specialist in Lahore with agency experience in WordPress, Webflow and local SEO.
+H1 (58 characters): Web Developer and SEO Specialist Based in Lahore, Pakistan
+Intro: I am Muhammad Ashar Samdani. I build websites and make sure people can find them on Google. I studied Computer Science at the University of Central Punjab and work with business owners who want a site that is fast, clear and built to bring in enquiries.
+Buttons: Start a Project | Download CV
+How I work
+Most websites fail in one of two ways. They look good but load slowly and confuse search engines, or they are technically clean but do not persuade visitors. I work on both sides: design and code, plus the SEO structure that helps the right customers find you.
+I started in customer service, so I know how to listen and explain things without jargon. That is why clients get straight answers about scope, timeline and what SEO can and cannot do.
+Why clients work with me
+Direct contact. You speak to the person building your site, not an account manager.
+Faster builds. AI-assisted coding speeds up prototypes, and I test everything before it goes live.
+SEO built in. Every project includes title and meta tags, heading structure, schema markup, a sitemap and Google Search Console setup.
+Experience
+Web Developer & SEO Expert | Marketing Mindz360, Lahore (onsite) | 3 years
+Built service-business and e-commerce websites in WordPress, Wix, Squarespace and Webflow.
+Made landing pages focused on speed, mobile layout and enquiries.
+Used AI-assisted coding to prototype and revise client sites quickly.
+Ran off-page SEO: citations, local listings, directory submissions, Web 2.0 links and press release distribution.
+Did keyword research and on-page SEO, and tracked indexing and queries in Google Search Console.
+Customer Service Representative | One Call Solution | 3 years Handled inbound and outbound calls, resolved complaints and kept accurate records.
+Customer Service Representative | Mindbridge Private Limited | 6 months Provided customer support in a fast-paced call centre.
+Home Tutor | 6 years Taught one-on-one, which built my communication and planning skills.
+Education
+BS Computer Science | University of Central Punjab, Lahore Intermediate (F.Sc. Pre-Engineering) and Matriculation (Science) | BISE Lahore
+Certifications and activities
+Full Stack Python Development, 6-month certification, PNY Trainings
+Certificate of Professional Achievement, Cloud Computing & AWS (Organizer)
+Certificate of Appreciation, Data Modernization with Data Lake on Cloud (Organizer)
+Certificate of Appreciation, Digital Transformation Conference (Organizer)
+Certificate of Appreciation, Microsoft SharePoint Online & Modern UI (Participant)
+Certificate of Appreciation, Mindmation ’19 (Organizer)
+Best Performance, SportsFest
+Human Resource Management, IEEE UCP Student Branch (1 year)
+About-page closing call to action
+H2: Want a Website That Works as Hard as You Do?
+Text: Whether you need a WordPress or Webflow site, a custom Next.js or Python build, or an SEO clean-up, send me the details.
+Buttons: Start a Project | See My Services
+5. Services page
+SEO title (59 characters): Web Development & Local SEO Services Lahore | Ashar Samdani
+Meta description: Website design, WordPress and Webflow development, on-page SEO, local citations and Search Console support for businesses in Lahore and worldwide.
+H1: Web Development and SEO Services for Growing Businesses
+Intro: From a first landing page to a full web app, I design, build and optimise websites that load quickly and are easy for customers and search engines to understand.
+Buttons: Open Scope Calculator | Start a Project
+The six services
+001. Custom Web Development Fast, accessible websites and web apps in HTML5, CSS3, JavaScript, Next.js, React, TypeScript, Tailwind CSS, Node.js and Python (FastAPI), with MySQL or PostgreSQL when data is involved. I choose a framework only when the project needs one. Deliverables: custom front end, API integrations, databases, clean code structure.
+002. WordPress, Webflow & CMS Websites Websites on WordPress, Webflow, Squarespace and Wix that you can update yourself, including WooCommerce stores and structured content collections. Deliverables: theme or template build, CMS setup, WooCommerce, editor training.
+003. Technical & On-Page SEO Keyword research, title and meta tags, heading structure, internal links, image optimisation and schema markup (Organization, LocalBusiness, Product, FAQ). Deliverables: keyword map, on-page fixes, JSON-LD schema, XML sitemap, robots.txt.
+004. Off-Page SEO & Local Citations Consistent business listings, directory submissions, Web 2.0 profiles and press release distribution that build trust signals and local visibility. Deliverables: citation set with consistent name, address and phone, directory listings, press release distribution.
+Proof: see the pest control (California) and fence company (DFW) SEO case studies on the Projects page.
+005. Landing Pages & AI-Assisted Builds Conversion-focused landing pages, calculators and forms, prototyped quickly with AI tools and finished by hand. Deliverables: landing page, lead form, quick prototype, mobile testing.
+006. Search Console Monitoring & Maintenance Ongoing checks on indexing, crawl errors, search queries and Core Web Vitals, plus updates and fixes after launch. Deliverables: monthly performance report, error fixes, ranking tracking, site updates.
+How a project runs
+Discovery and SEO audit. Goals, audience, competitors and technical needs, agreed in writing.
+Build sprint. Layout, content structure and CMS or code, with preview links so you can give feedback early.
+SEO and speed tuning. Schema, Core Web Vitals, heading checks and Search Console setup.
+Launch and promotion. Go-live, sitemap submission, local citations and directory listings.
+Tools and stack (intro line)
+I pick tools by project need. Here is what I use most.
+Categories: Development & Code | CMS & Platforms | SEO & Growth | Workflow & Soft Skills
+HTML5, CSS3, JavaScript: semantic markup, Grid, Flexbox, mobile-first layouts.
+Next.js, React, TypeScript, Tailwind CSS: component-based sites and web apps.
+Python, FastAPI, Node.js: back ends, APIs and automation.
+MySQL, PostgreSQL, SQLite, Redis: relational data and caching.
+WordPress and WooCommerce: themes, plugins, stores.
+Webflow, Wix, Squarespace: design-led CMS sites.
+Google Search Console: indexing, queries, Core Web Vitals.
+Citations and Web 2.0: local listings and directories.
+Services call to action
+H2: Not Sure What You Need?
+Text: Use the scope calculator for a rough timeline, or send me your idea and I will tell you which service fits.
+6. Projects page
+SEO title (59 characters): Web Developer Portfolio Lahore: Websites & Web Apps | Ashar
+Meta description: Web developer portfolio from Lahore: a Next.js packaging store, Python calling dialer, WordPress and HTML sites for plumbers, decorators and salons.
+H1: Real Websites and Web Apps I Have Built
+Intro: Ten projects across business websites, an e-commerce catalogue and full web apps. Each card shows the stack and what I delivered.
+Filters: All | Business Websites | Catalogue & E-commerce | Web Apps | SEO Case Studies
+For every project add: your role, the client’s goal, and one real result if you have it (for example “quote requests rose from X to Y”). I did not invent results.
+1. Packaging Mindz Canada
+Type: Catalogue & e-commerce | Stack: Next.js 15, React 19, TypeScript, Tailwind CSS 3, Node.js | Live: packagingmindzcanada.netlify.app Card line: A 68-product custom packaging catalogue with a quote-first flow for Canadian businesses. Case text: I built the Canadian version of the Packaging Mindz store: 68 products in eight categories, a quote form that pre-selects the product or industry, and industry pages for bakeries, beauty brands, jewellers and online sellers. The site uses Canadian English, full metadata and Open Graph tags, and covers delivery across every province and territory.
+2. Universal Image Fixer
+Type: Web app | Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Sharp, Prisma, PostgreSQL, Valkey, Docker | Live: no public demo yet (see code link) Card line: A web app that processes and repairs images on the server. Case text (VERIFY features): A full-stack image tool built with Next.js and TypeScript. Sharp handles server-side image processing, Prisma and PostgreSQL store the data, Valkey handles caching, and Docker packages the app for deployment. Describe the exact fixes it performs (resize, compress, convert, repair).
+Code: GitHub repository
+3. Python-Based Calling Dialer
+Type: Web app | Stack: Python, FastAPI, Twilio Voice API, HTML5, CSS3, JavaScript, PostgreSQL, Redis, WebSockets | Live: demo link or screen recording Card line: A browser dialer that places calls through Twilio and shows live call status. Case text (VERIFY features): A calling dialer built on FastAPI and the Twilio Voice API. WebSockets push live call status to the browser, PostgreSQL stores call records and Redis manages session state. My call-centre background shaped the workflow. Add what agents can do (dial, log outcomes, review history).
+4. Bob’s Decorating Service
+Type: Business website | Stack: HTML5, CSS3, JavaScript, Node.js | Live: bobsdecoratingservice.netlify.app Card line: A clear, mobile-friendly website for a painting and decorating business. Case text (VERIFY): A lead-focused website for a decorating service, with service sections, project photos and an enquiry form handled by a Node.js back end. Built to load fast on mobile, where most local customers search.
+Code: GitHub repository
+5. Habacker Plumbing Landing Page
+Type: Landing page | Stack: HTML5, CSS3, JavaScript, Python | Live: jonathanrhabackerplumbingandheating.netlify.app Card line: A single-page site built to turn plumbing and heating searches into calls. Case text (VERIFY): A conversion landing page for a plumbing and heating company, with a prominent phone number, service list and contact form, plus a Python back end for form handling. Structured with LocalBusiness schema so search engines can read the services and area.
+6. Eman Beauty Salon
+Type: Business website | Stack: HTML5, CSS, Python | Live: emanbeautysaloonandtrainingcenter.netlify.app Card line: A website for a beauty salon and training centre. Case text (VERIFY): A site presenting a salon’s treatments and its training programmes, with gallery, pricing or course details and an easy way to enquire. Python supports the form or booking logic.
+Code: GitHub repository
+7. Luxury Landscaping Designs
+Type: Business website | Stack: HTML5, CSS3, Vanilla JavaScript | Live: luxurylandscapedesigns.netlify.app Card line: A showcase site for high-end garden and landscape design. Case text (VERIFY): A visual portfolio site for a landscape design firm, built in plain HTML, CSS and JavaScript so large photos load quickly. Focus on gallery, services and an enquiry route.
+Code: GitHub repository
+8. Al-Wali Metalworks
+Type: Business website | Stack: HTML5, CSS3, Vanilla JavaScript, Python | Live: no live site listed (see code link) Card line: A website for a metal fabrication business. Case text (VERIFY): A hand-coded website for a metalworks company presenting its services and finished work, with a Python-handled contact form.
+Code: GitHub repository
+9. Gardening Landscape
+Type: CMS website | Stack: WordPress, PHP, HTML5, CSS3, JavaScript | Live: add link if available Card line: A WordPress site a gardening team can update on its own. Case text (VERIFY): A WordPress build with a customised theme and PHP changes, so the owner can edit services, galleries and contact details without a developer.
+10. PackagingMindz (original site)
+Type: Catalogue | Stack: HTML5, CSS3, Vanilla JavaScript, Python, SQLite | Live: no live site listed (see code link) Card line: The first Packaging Mindz site, hand-coded with a Python and SQLite back end. Case text (VERIFY): A hand-coded packaging site with a Python back end and an SQLite database for [products or quote requests]. It was the base for the later Next.js Canada version.
+Code: GitHub repository
+Projects page closing call to action
+H2: Have a Project Like These?
+Text: Send me what you need and I will tell you how I would build it and how long it would take.
+7. Contact page
+SEO title (59 characters): Hire a Web Developer & SEO Expert in Lahore | Ashar Samdani
+Meta description: Contact Ashar Samdani to hire a freelance web developer or SEO expert in Lahore. Send your brief by email, WhatsApp or form.
+H1: Tell Me About Your Project
+Intro: I take on website builds, redesigns, landing pages, web apps and SEO work. Share what you need and I will reply with next steps. I normally reply within one working day (change to “2 hours” only if that is true).
+Contact cards: Email asharabid99@gmail.com | WhatsApp +92 324 4046649 | Base: Johar Town, Lahore, Pakistan (PKT, GMT+5)
+Form labels: Your name | Email address | Service of interest | Project details and goals | Button: Send Project Inquiry
+Service dropdown: WordPress, Webflow or other CMS website | Custom website (HTML, CSS, JavaScript) | Web app or API (Next.js, Python, Node.js) | Technical and on-page SEO | Off-page SEO and local citations | Landing page | Ongoing maintenance and monitoring
+Form helper text: Mention your business type, current website (if any), deadline and budget range. It helps me give an accurate answer.
+Scope calculator intro: Pick a service, a scope and a timeline to get a rough estimate. I confirm the final timeline after we talk.
+Contact FAQ: reuse the five Home FAQs.
+8. Image plan
+Rules for every image: WebP format (AVIF is fine for hero images), under 200 KB each, project cards under 150 KB, descriptive file names in lowercase with hyphens, alt text under 125 characters, width and height set in the code, lazy-load everything below the first screen. No stock photos of people. No third-party logos. Blur or replace any real phone numbers, names or customer data in app screenshots.
+A. Site images
+Where
+Current
+Replace with
+Size and format
+File name and alt text
+Home hero portrait
+ashar-photo1.jpg
+Real photo, head and shoulders, plain light background, natural window light, looking at the camera, smart casual, face about 45% of the frame
+1200×1500 (4:5), WebP
+ashar-samdani-web-developer.webp / “Muhammad Ashar Samdani, web developer and SEO expert in Lahore”
+About page header
+Stock Webflow-CDN photo
+Real photo of you at your desk: two monitors, one showing code and one showing Google Search Console, tidy desk, warm light
+2400×1200, WebP
+ashar-samdani-workspace.webp / “Ashar Samdani’s workspace with code editor and Search Console open”
+Project cards on Home and Projects
+project-1 to project-4.svg placeholders
+Real screenshots from Table B
+1600×1000, WebP
+see Table B
+Video poster (reel)
+none
+A frame from your screen recording: browser with a live site on the left, Search Console on the right
+1920×1080, WebP
+studio-reel-poster.webp / “Screen recording of building and optimising a website”
+Testimonial avatars
+AK, SL, MR, FT initials
+Real client photos with permission, or delete the avatars
+200×200, WebP
+client-name.webp
+Social share image (all pages)
+none
+Dark background, your name, “Web Developer & SEO Expert”, your portrait on the right
+1200×630, JPG or PNG
+og-ashar-samdani.jpg / “Ashar Samdani, web developer and SEO expert”
+Logo
+text wordmark
+“AS” monogram plus the wordmark, one accent colour
+SVG
+ashar-samdani-logo.svg
+Favicon
+none or default
+“AS” monogram on solid background
+512×512 PNG plus .ico
+favicon.png
+Certificates (optional)
+none
+Clean scans of the PNY Python certificate and the AWS and IEEE certificates, personal details hidden
+800×600, WebP
+pny-full-stack-python-certificate.webp
+B. Project image sets
+Make five images per project using the same pattern, so the grid looks consistent.
+Card (1600×1000, 16:10): desktop homepage, top section only, no browser frame, on a solid or soft-gradient background in the project’s brand colour, 6% padding, light shadow. Name: slug-card.webp.
+Case header (2400×1350, 16:9): same page, full width. Name: slug-hero.webp.
+Mobile (900×1800, transparent background): homepage at 390×844 in a plain phone outline. Name: slug-mobile.webp.
+Gallery 1 to 3 (1600×1000): inner pages from the list below. Names: slug-gallery-1.webp, -2, -3.
+Alt text pattern: “[Project name] homepage on desktop” / “…on mobile” / “…[page name] page”.
+Project (slug)
+Card image must show
+Gallery 1 / 2 / 3
+Packaging Mindz Canada (packagingmindz-canada)
+Hero “Custom Packaging Made for Your Brand” with the quote form visible
+Category grid / a product page such as Custom Rigid Gift Boxes / the quote form
+Universal Image Fixer (universal-image-fixer)
+Upload screen with one before-and-after result, using your own sample photo
+Before and after comparison / processing state / results or settings
+Python Calling Dialer (calling-dialer)
+Dialer dashboard with keypad and live call-status panel, fake numbers such as +1 555 0100
+Call history table / active call view / settings
+Bob’s Decorating Service (bobs-decorating)
+Hero with a freshly decorated room and the main call to action
+Services section / project gallery / enquiry form
+Habacker Plumbing (habacker-plumbing)
+Hero with the phone number and call button clearly visible
+Services and emergency section / trust badges / contact form
+Eman Beauty Salon (eman-beauty-salon)
+Hero with the salon name, treatment photo and booking button
+Services and prices / training courses / contact
+Luxury Landscaping Designs (luxury-landscaping)
+Hero with a wide garden photo
+Portfolio gallery / services / contact
+Al-Wali Metalworks (al-wali-metalworks)
+Hero with a metal fabrication photo
+Services / finished work / contact
+Gardening Landscape (gardening-landscape)
+Homepage hero with the WordPress theme visible
+Services / gallery / contact
+PackagingMindz original (packagingmindz)
+Homepage hero
+Product list / quote form / admin or data view if suitable
+Capture screenshots after the final content is live, so the images match what visitors see. Projects without a public link should show a clean local or staging screenshot instead.
+9. Technical SEO checklist
+One unique title tag and meta description per page (use the ones above).
+One H1 per page, then H2 and H3 in order.
+Person schema on Home and About: name, job title, Lahore, alumniOf University of Central Punjab, worksFor Marketing Mindz360 (past), knowsAbout (web development, technical SEO, WordPress, Webflow, Next.js, Python), sameAs (your real social URLs).
+ProfessionalService schema on Services and Contact: service type, areaServed (Pakistan and remote clients), contact point.
+BreadcrumbList on inner pages. FAQPage markup is optional, since Google rarely shows FAQ rich results for general sites.
+Link each project card to its live URL (open in a new tab with rel=“noopener”), and link service descriptions to matching projects.
+Related terms to use naturally across pages: Lahore, Pakistan, University of Central Punjab, Google Search Console, Core Web Vitals, JSON-LD, Schema.org, WooCommerce, Next.js, FastAPI, local citations, NAP consistency, Web 2.0.
+Submit sitemap.xml in Search Console, add canonical tags, and check Core Web Vitals after the new images are in.
+10. What I need from you
+Confirm or correct the VERIFY project texts, and send live links for Al-Wali, Gardening Landscape, Universal Image Fixer, the dialer and the original PackagingMindz.
+Your real numbers (years, projects, clients) and any measurable results.
+Real testimonials, or confirm removal.
+Your social profile URLs.
+Whether a project 8 exists.
+11. Keyword map for titles, descriptions and headings
+The titles and descriptions above now carry these keywords. They are long-tail and local, which are easier to rank for than “web developer” alone. I have no search-volume data here, so check each in Google Search Console and Ubersuggest and keep the ones that show impressions.
+Page
+Primary keyword
+Supporting keywords
+Use it in
+Home
+freelance web developer Lahore
+SEO expert in Lahore, web developer and SEO expert Pakistan, WordPress developer Lahore
+Title, meta description, H1 area, first 100 words
+About
+SEO specialist Lahore
+web developer Lahore BSCS, hire SEO specialist Pakistan, Johar Town web developer
+Title, H1, intro paragraph
+Services
+web development services Lahore
+local SEO services Lahore, WordPress website development Lahore, Webflow developer Pakistan, Next.js developer Pakistan, local citations service
+Title, each service H3, deliverables
+Projects
+web developer portfolio Lahore
+website design for plumbers, painting and decorating website design, beauty salon website design, landscaping website design, custom packaging website
+Title, project H3s, image alt text
+Contact
+hire web developer Lahore
+hire SEO expert Pakistan, freelance web developer for hire, website quote Lahore
+Title, H1 area, form intro
+Calling Dialer project
+Twilio Voice API developer
+Python FastAPI developer, browser dialer WebSockets
+Case text, headings, alt text
+Universal Image Fixer project
+Next.js image optimisation app
+Sharp image processing, Prisma PostgreSQL app
+Case text, headings, alt text
+Use each primary keyword once in the title, once in the meta description and once in the first paragraph. Use supporting keywords naturally in H2 and H3 headings and alt text, and avoid repeating the same phrase more than a few times per page.
+12. SEO case studies (new)
+Add SEO case studies as a third type of work. Show them on the Projects page under the filter “SEO Case Studies”, as two cards in Home “Featured work”, and as proof under Services 003 and 004. The images below are your Search Console screenshots with the Windows taskbar and clock cropped off. Project buttons: use “Live demo” where a live URL exists and “View code” where a GitHub repository exists (links are in Section 6).
+Case study 1: 3-Month SEO Results for a Pest Control Company in California
+SEO title (55 characters): Pest Control SEO Case Study California: 3-Month Results
+Meta description: See how local SEO took a California pest control company from almost no Google traffic to 130 clicks and 35k impressions in 3 months.
+H1: 3-Month SEO Results for a Pest Control Company in California
+When this pest control company came to us, they were getting little to no traffic and almost zero leads from Google. Within just 3 months, we started seeing a noticeable improvement in their organic visibility and website traffic. We focused on targeting the right local searches, optimizing their website, improving local SEO, and creating a strong foundation to generate more qualified leads.
+Metric (Google Search Console, web search, 9 May to 7 Aug 2026)
+Result
+Total clicks
+130
+Total impressions
+35k
+Average CTR
+0.4%
+Average position
+25.9
+[image: Google Search Console chart for a California pest control company: 130 clicks and 35k impressions in 3 months]
+Case study 2: 1.5-Month SEO Results for a Fence Company in DFW
+SEO title (51 characters): Fence Company SEO Case Study DFW: 1.5-Month Results
+Meta description: See how local SEO took a DFW fence company from almost zero website leads to 191 organic clicks and 66.8k impressions in 1.5 months.
+H1: 1.5-Month SEO Results for a Fence Company in DFW
+When this fence company came to us, they were getting almost zero leads from their website. Within just 1.5 months, we started generating consistent leads through organic search. The goal wasn’t to chase random traffic. We focused on targeting the right locations, improving local visibility, optimizing the website, and building a stronger foundation for long-term rankings. From zero leads to real inquiries in just 1.5 months.
+Metric (Google Search Console, web search, 45 days)
+Result
+Previous period
+Total clicks
+191
+0
+Total impressions
+66.8k
+0
+Average CTR
+0.3%
+0%
+Average position
+16.9
+0
+[image: Google Search Console chart for a DFW fence company: 191 clicks and 66.8k impressions in 1.5 months]
+Image and keyword details
+Item
+Specification
+Images in the document
+pest-control-seo-california-gsc-results.webp and fence-company-seo-dfw-gsc-results.webp, about 1045×570, WebP, under 40 KB each (ready to use)
+Card images (Home and Projects)
+1600×1000 WebP: the screenshot centred on a solid dark background, with the headline number (130 clicks, 191 clicks) in large type beside it
+Alt text
+Use the alt text under each image above
+Pest control keywords
+pest control SEO California, local SEO for pest control companies
+Fence company keywords
+fence company SEO DFW, local SEO for fence contractors, SEO for fence companies Dallas Fort Worth
+Schema
+Article markup on each case study page, plus Person schema for the author
+Before publishing
+The screenshots show clicks and impressions, not leads. Add a real lead count (calls or form fills) if you have one, so “real inquiries” is backed up.
+Get the clients’ permission to show the results, and keep their names private unless they agree.
+Do not headline the CTR (0.3% to 0.4%) or the average position (16.9 and 25.9). Lead with clicks, impressions and the move from zero.
+The text says “we”. Keep that only if the work was done by a team. Use “I” if you did it yourself.
+Confirm the employer and dates behind the 3 years of experience, then update your CV to match.
